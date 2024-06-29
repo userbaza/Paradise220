@@ -93,3 +93,16 @@
 /datum/sprite_accessory/hair/tajara/taj_hair_metal
 	name = "Tajara Metal"
 	icon_state = "metal"
+
+/datum/sprite_accessory/hair/tajara/taj_hair_lynx
+	name = "Tajara Lynx"
+	icon_state = "lynx"
+
+/datum/sprite_accessory/hair/tajara/taj_hair_overeye
+	name = "Tajara Overeye"
+	icon_state = "overeye"
+	glasses_over = FALSE
+
+/datum/sprite_accessory/hair/tajara/taj_hair_ponytail
+	name = "Tajara Ponytail"
+	icon_state = "ponytail"
